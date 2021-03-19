@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+
+
+
+
+
+
+/* highlights */
+.highlights .m_feature-size .size-num strong {font-size:35px;}
+.s2 .highlights .m_feature-size .size-num strong {font-size:24px;}
+.s1 .highlights .m_feature-size .size-num strong {font-size:15px;}
+
+/* design */
+.s2 .design .f_two-size .f_container div[class*=-size]{max-width: 130px;}
+.s2 .design .hello.f_two-size .f_container .big-size{left: 26px;}
+
+
+/* performance */
+
+
+/* camera */
+
+
+/* s-pen */
+
+
+/* accessories */
+
+
+/* specs */
+
+
+
+
